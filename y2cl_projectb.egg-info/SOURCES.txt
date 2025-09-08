@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+tests/test_fine_details.py
+tests/test_important_details.py
+tests/test_tasks.py
+thermosnooker/__init__.py
+thermosnooker/analysis.py
+thermosnooker/balls.py
+thermosnooker/errors.py
+thermosnooker/physics.py
+thermosnooker/simulations.py
+y2cl_projectb.egg-info/PKG-INFO
+y2cl_projectb.egg-info/SOURCES.txt
+y2cl_projectb.egg-info/dependency_links.txt
+y2cl_projectb.egg-info/requires.txt
+y2cl_projectb.egg-info/top_level.txt
